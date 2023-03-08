@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700,900');
+
+.box {
+  background: radial-gradient(#fff, #aaa);
+  background-size: 100%; 
+  overflow: visible;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  margin-top: 1%;
+  margin:auto;
+  width: 80%;
+  height: 60%;
+  text-align: center;
+}
+.head {
+  z-index: 1;
+}
+.textbox{
+  padding-top: 2%;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+.txt {
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 40px;
+  outline: none;
+  color: #e90418;
+}
