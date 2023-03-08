@@ -34,6 +34,16 @@ export const words = {
       `Les pandas`,
       `Les aliens`,
       `Les clowns`,
+      `Les nazis`,
+      `Les allemands`,
+      `Les fabricants de voiture`,
+      `Les lobbyistes`,
+      `Les Qanon`,
+      `Les fans de Francis Lalanne`,
+      `Les auditeurs de France Inter`,
+      `Les bobos parisiens`,
+      `Les islamo-gauchistes`,
+      `Les GAFAM`,
       `Les élus européens`
     ],
     who: [
@@ -74,6 +84,11 @@ export const words = {
       `les stations de ski`,
       `les plagistes`,
       `l'adrénochrome`,
+      `Internet`,
+      `les semi-conducteurs taïwanais`,
+      `les chauffeurs de taxi sans-papiers`,
+      `les locataires de Jawad`,
+      `les intermittants du spectacle`,
       `la fertilité`
     ],
     what: [
