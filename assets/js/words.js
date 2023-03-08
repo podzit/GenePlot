@@ -44,6 +44,14 @@ export const words = {
       `Les bobos parisiens`,
       `Les islamo-gauchistes`,
       `Les GAFAM`,
+      `Les députés LFI`,
+      `Les adeptes de la scientologie`,
+      `Les syndicats de naturopathes`,
+      `Les homéopathes`,
+      `Les syndicats étudiants`,
+      `Les assistants de Darmanin`,
+      `Les bailleurs sociaux`,
+      `Les employés d'Elon Musk`,
       `Les élus européens`
     ],
     who: [
@@ -88,6 +96,9 @@ export const words = {
       `les semi-conducteurs taïwanais`,
       `les chauffeurs de taxi sans-papiers`,
       `les locataires de Jawad`,
+      `le calendrier des jours fériés`,
+      `le code de la route`,
+      `les textes religieux`,
       `les intermittants du spectacle`,
       `la fertilité`
     ],
@@ -124,6 +135,15 @@ export const words = {
       `surveiller les opposants politiques`,
       `gouverner par la terreur`,
       `faire taire les minorités véganes`,
+      `détourner l'attention`,
+      `procéder à des rites sataniques`,
+      `détériorer la condition des feministes`,
+      `truquer les prochains jeux olympiques`,
+      `cacher la mort de Donald Trump`,
+      `cloner les descendants de Pétain`,
+      `augmenter les températures de 5°`,
+      `diminuer les températures de 10°`,
+      `cacher l'existence de la terre du milieu`,
       `empêcher la culture du cannabis`
     ]
   };
