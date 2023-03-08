@@ -84,7 +84,7 @@ export const words = {
       `répandre des maladies mortelles`,
       `étudier le comportement humain`,
       `créer une troisième guerre mondiale`,
-      `grand remplacer les occidentaux`,
+      `grand-remplacer les occidentaux`,
       `esclavager les peuples souverains`,
       `enrichir les extra-terrestres`,
       `transformer l'histoire des dinosaures`,
@@ -108,6 +108,7 @@ export const words = {
       `droguer la population mondiale`,
       `surveiller les opposants politiques`,
       `gouverner par la terreur`,
+      `faire taire les minorités véganes`,
       `empêcher la culture du cannabis`
     ]
   };
